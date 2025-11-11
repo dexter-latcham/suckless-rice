@@ -1,7 +1,9 @@
-Pathches to be applied
-vanitygaps https://dwm.suckless.org/patches/vanitygaps/
+Patches applied:
 scratchpad https://dwm.suckless.org/patches/scratchpad/
 statuscmd https://dwm.suckless.org/patches/statuscmd/
+
+Pathches to be applied
+vanitygaps https://dwm.suckless.org/patches/vanitygaps/
 swallow https://dwm.suckless.org/patches/swallow/
 stacker https://dwm.suckless.org/patches/stacker/
 hide vacant tags https://dwm.suckless.org/patches/hide_vacant_tags/
